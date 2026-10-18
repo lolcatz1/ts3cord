@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1,0,0,1,0,-640)">
+        <g id="scream" transform="matrix(1,0,0,1.37634,0,454.194)">
+            <rect x="0" y="135" width="128" height="93" style="fill:none;"/>
+            <g transform="matrix(1,0,0,0.726562,0,135)">
+                <path d="M64,9C33.615,9 9,33.615 9,64C9,94.385 33.615,119 64,119C94.384,119 119,94.385 119,64C119,33.615 94.384,9 64,9Z" style="fill:rgb(138,196,227);fill-rule:nonzero;"/>
+            </g>
+            <g transform="matrix(1,0,0,0.726562,0,135)">
+                <ellipse cx="81.765" cy="45.98" rx="7.5" ry="12.214" style="fill:rgb(2,43,86);"/>
+                <ellipse cx="46.235" cy="45.98" rx="7.5" ry="12.214" style="fill:rgb(2,43,86);"/>
+            </g>
+            <g transform="matrix(1,0,0,0.726562,0,135)">
+                <ellipse cx="64" cy="84.289" rx="14.714" ry="18" style="fill:rgb(2,43,86);"/>
+            </g>
+        </g>
+    </g>
+</svg>

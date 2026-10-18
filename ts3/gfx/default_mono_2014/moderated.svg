@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Ebene_4" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="128px" height="128px" viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="64.0005" y1="116.416" x2="64.0005" y2="13.4268">
+	<stop  offset="0.3" style="stop-color:#426080"/>
+	<stop  offset="1" style="stop-color:#819CBD"/>
+</linearGradient>
+<path fill="url(#SVGID_1_)" d="M95.651,13.426H32.347C19.454,13.426,9,23.88,9,36.774v30.299C9,79.97,19.454,90.421,32.347,90.421
+	h34.539c2.034,5.361,4.119,16.286-6.902,25.995c20.145-3.741,29.607-19.513,32.703-25.995h2.965
+	C108.545,90.421,119,79.97,119,67.073V36.774C119,23.88,108.545,13.426,95.651,13.426z"/>
+<text transform="matrix(1 0 0 1 29.5913 76.0205)" fill="#FFFFFF" font-family="'FrutigerNeueLTPro-Heavy'" font-size="68.75">M</text>
+</svg>

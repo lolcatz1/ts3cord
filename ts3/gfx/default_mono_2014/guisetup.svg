@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Ebene_4_Kopie_Kopie" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" width="128px" height="128px" viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+<g>
+	<path fill="none" d="M88.997,57.268l9.418,28.511c1.186,3.587,0.248,7.536-2.424,10.207c-1.905,1.906-4.461,2.93-7.072,2.93
+		c-1.049,0-2.106-0.165-3.134-0.504L57.274,89c-1.541-0.509-2.913-1.376-4.019-2.508L19,52.232v56.769h90V28.999H62.237
+		l24.217,24.218C87.603,54.328,88.483,55.711,88.997,57.268z"/>
+	<g>
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="64.0005" y1="119" x2="64.0005" y2="9.0005">
+			<stop  offset="0.3" style="stop-color:#426080"/>
+			<stop  offset="1" style="stop-color:#819CBD"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_1_)" points="42.239,9 62.237,28.999 109,28.999 109,109.001 19,109.001 19,52.232 9,42.231 9,119 
+			119,119 119,9 		"/>
+	</g>
+</g>
+<path fill="#404547" d="M79.498,60.403L25.365,6.268C23.8,4.76,21.872,4.01,19.59,4.039c-2.271,0.024-4.187,0.845-5.754,2.458
+	l-7.354,7.337c-1.6,1.57-2.417,3.478-2.444,5.761c-0.024,2.287,0.72,4.208,2.239,5.77l54.126,54.133
+	c0.063-0.096,0.065-0.094,0.005,0.006l28.511,9.412l-9.418-28.511C79.42,60.457,79.416,60.455,79.498,60.403z"/>
+</svg>

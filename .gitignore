@@ -1,0 +1,9 @@
+build/
+dev/
+vendor/
+ref/
+re/
+ui/build/
+ui/compile_commands.json
+core/ts3cord-core
+dist/

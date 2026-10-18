@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="/">
+    <file>res/ts3cord.png</file>
+  </qresource>
+</RCC>

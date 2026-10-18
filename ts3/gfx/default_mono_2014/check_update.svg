@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="128px"
+	 height="128px" viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+<g id="Ebene_1_Kopie" display="none">
+	<g display="inline">
+		<path fill="none" stroke="#C9070A" stroke-width="10" stroke-miterlimit="10" d="M102.696,27.377
+			c4.844,5.999,7.743,13.631,7.743,21.94c0,19.304-15.647,34.95-34.949,34.95c-19.301,0-34.949-15.646-34.949-34.95
+			c0-19.301,15.647-34.948,34.949-34.948"/>
+		<g>
+			<g>
+				<polygon fill="#C9070A" points="84.431,9 119,18.944 103.777,28.346 94.379,43.565 				"/>
+			</g>
+		</g>
+	</g>
+	
+		<line display="inline" fill="none" stroke="#C9070A" stroke-width="10" stroke-miterlimit="10" x1="40.961" y1="87.039" x2="9" y2="119"/>
+</g>
+<g id="Ebene_1_Kopie_Kopie" display="none">
+	<path display="inline" fill="none" stroke="#C9070A" stroke-width="15" stroke-miterlimit="10" d="M103.981,29.182
+		c4.712,5.835,7.533,13.26,7.533,21.344c0,18.779-15.223,34.002-34,34.002s-34-15.223-34-34.002c0-18.777,15.223-33.999,34-33.999"
+		/>
+	<g display="inline">
+		<g>
+			<polygon fill="#C9070A" points="83.035,9.296 125.035,21.377 106.54,32.8 95.124,51.292 			"/>
+		</g>
+	</g>
+	
+		<line display="inline" fill="none" stroke="#C9070A" stroke-width="15" stroke-miterlimit="10" x1="40.961" y1="87.039" x2="9" y2="119"/>
+	<g display="inline">
+		
+			<rect x="42.697" y="8.404" transform="matrix(0.2782 0.9605 -0.9605 0.2782 69.9103 -66.2245)" fill="#426080" width="72.644" height="10"/>
+	</g>
+</g>
+<g id="Ebene_1_Kopie_Kopie_Kopie">
+	<line fill="none" stroke="#404547" stroke-width="10" stroke-miterlimit="10" x1="40.961" y1="87.039" x2="9" y2="119"/>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="80.5244" y1="92.0273" x2="80.5244" y2="9.2964">
+		<stop  offset="0.3" style="stop-color:#426080"/>
+		<stop  offset="1" style="stop-color:#819CBD"/>
+	</linearGradient>
+	<path fill="url(#SVGID_1_)" d="M125.035,20.377l-42-11.082l10.089,40.996l7.815-12.041c2.291,3.322,3.075,8.676,3.075,12.274
+		c0,14.613-11.888,26.502-26.5,26.502s-26.5-11.889-26.5-26.502c0-14.404,10.554-26.151,24.88-26.483L72.632,9.323
+		c-20.589,2.426-36.617,19.972-36.617,41.202c0,22.884,18.617,41.502,41.5,41.502c22.883,0,41.5-18.618,41.5-41.502
+		c0-7.655-2.142-16.176-6.104-22.66L125.035,20.377z"/>
+</g>
+</svg>

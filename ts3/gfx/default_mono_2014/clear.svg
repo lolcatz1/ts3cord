@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="128px"
+	 height="128px" viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+<g id="Ebene_2">
+</g>
+<g id="Ebene_1_Kopie" display="none">
+	<path display="inline" fill="#101719" d="M94.214,88.375H9c-3.038,0-5.5-2.463-5.5-5.5v-13.5c0-1.459,0.58-2.857,1.611-3.889
+		l24.25-24.25c1.032-1.031,2.431-1.611,3.889-1.611H119c3.037,0,5.5,2.462,5.5,5.5v12.867c0,1.455-0.576,2.851-1.604,3.881
+		L98.11,86.757C97.078,87.793,95.676,88.375,94.214,88.375z"/>
+	<rect x="71" y="-8.968" display="inline" fill="#C9070A" width="10" height="130.643"/>
+</g>
+<g id="Ebene_4" display="none">
+	<g display="inline">
+		<g>
+			
+				<polygon fill="#101719" stroke="#101719" stroke-width="13" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+				57.648,48.025 104.921,79.961 25.404,79.961 25.404,48.025 			"/>
+		</g>
+	</g>
+</g>
+<g id="Ebene_4_Kopie">
+	<g>
+		
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="44.9751" y1="36.7822" x2="116.6934" y2="36.7822" gradientTransform="matrix(0.7071 0.7071 -0.7071 0.7071 52.6909 0.6699)">
+			<stop  offset="0.3" style="stop-color:#426080"/>
+			<stop  offset="1" style="stop-color:#819CBD"/>
+		</linearGradient>
+		<path fill="url(#SVGID_1_)" d="M102.149,113.314L97.8,75.669c-0.123-1.083-0.609-2.085-1.383-2.857L70.288,46.678L46.68,70.284
+			l47.29,47.287c0.003,0.003,0.008,0.007,0.012,0.011c1.882,1.891,4.943,1.891,6.825,0
+			C101.974,116.422,102.414,114.817,102.149,113.314z"/>
+		<path fill="#404547" d="M25.852,14.683l4.346,37.64c0.126,1.083,0.614,2.09,1.387,2.862l9.843,9.845l23.608-23.604L34.032,10.424
+			c-0.003-0.001-0.008-0.006-0.011-0.009c-1.886-1.886-4.943-1.886-6.83,0C26.031,11.574,25.583,13.18,25.852,14.683z"/>
+	</g>
+</g>
+</svg>

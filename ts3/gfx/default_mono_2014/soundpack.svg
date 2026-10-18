@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Ebene_2_Kopie" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="128px" height="128px" viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="64.0005" y1="119" x2="64.0005" y2="9.0005">
+		<stop  offset="0.3" style="stop-color:#426080"/>
+		<stop  offset="1" style="stop-color:#819CBD"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_1_);" d="M104,9H24C15.716,9,9,15.716,9,24v80c0,8.284,6.716,15,15,15h80c8.284,0,15-6.716,15-15V24
+		C119,15.716,112.284,9,104,9z"/>
+</g>
+<path style="fill:#FFFFFF;" d="M90.31,43.797c-16.907,1.849-19.273-9.344-26.63-6.485c0,0.417,0,0.823,0,0.823v55.277h-0.004
+	c-0.093,6.414-8.151,11.587-18.084,11.587c-9.99,0-18.09-5.234-18.09-11.701c0-6.455,8.1-11.696,18.09-11.696
+	c3.833,0,7.385,0.768,10.311,2.09c0,0,0-37.914,0-40.457c0-13.39-0.201-18.899,8.095-20.105
+	c12.388-1.802,18.617,15.945,37.855,3.464C101.852,26.593,106.619,42.011,90.31,43.797z"/>
+</svg>
